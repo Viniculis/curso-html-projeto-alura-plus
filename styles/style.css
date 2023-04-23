@@ -22,7 +22,7 @@ body {
 }
 
 .principal {
-    background-image: url("/Users/vini/Documents/Cursos/Curso HTML/Alura+/img/Background.png");
+    background-image: url("../img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
